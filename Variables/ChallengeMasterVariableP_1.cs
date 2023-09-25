@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpLearning
+namespace CSharpLearning.Variables
 {
     internal class ChallengeMasterVariableP_1
     {
+        // Create a variable of name, age,speed, health, score, ammocount, checkallthekeysarecollected and print them in the console
+
         public static string name = "Prashant Singh";
         private static int age = 20;
         private static int speed = 15;
