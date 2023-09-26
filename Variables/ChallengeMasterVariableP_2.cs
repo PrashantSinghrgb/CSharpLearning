@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharpLearning.Variables
+namespace CSharpLearning.Variables.Question_2
 {
     internal class ChallengeMasterVariableP_2
     {

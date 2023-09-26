@@ -45,7 +45,9 @@
   <ItemGroup>
     <Compile Include="Variables\ChallengeMasterVariableP_1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Variables\NewFolder1\ChallengeMasterVariableP_2.cs" />
+    <Compile Include="Variables\ChallengeMasterVariableP_2.cs" />
+    <Compile Include="Variables\ChallengeTipCalculator.cs" />
+    <Compile Include="Variables\QuizCalculator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
